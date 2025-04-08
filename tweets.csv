@@ -1,0 +1,6 @@
+text,sentiment
+"I love this product!",positive
+"This is terrible",negative
+"It's okay, nothing special",neutral
+"Amazing experience!",positive
+"I hate delays",negative
